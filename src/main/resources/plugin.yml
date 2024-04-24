@@ -1,0 +1,4 @@
+name: "EasyPlant"
+main: com.diquemc.easyplant.EasyPlant
+version: "1.0"
+api-version: "1.20"
